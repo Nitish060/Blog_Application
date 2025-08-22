@@ -1,6 +1,9 @@
 # Blog Application
 **Blog Application is a MERN Stack web Application which is developed using MongoDB, Express, NodeJS and React.**
 
+***Live Demo***
+You can view the live website here: https://blog-application-jkx1.onrender.com
+
 ***It allows following functioning for a user operating it –***
 
 1. Sign up to the application
